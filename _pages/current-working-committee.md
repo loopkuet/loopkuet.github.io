@@ -14,13 +14,13 @@ permalink: /committee/
     * [Committee - 2K13](#2K13)
 
 
-# Sub Committee - 2K16 <a name="2K16"> </a>
+# <center> --- Sub-Committee - 2K16 --- </center> <a name="2K16"> </a>
 
 _ToDo_
 
-# Current Committee - 2K15 <a name="2K15"> </a>
+# <center> --- Committee - 2K15 --- </center> <a name="2K15"> </a>
 
-## <center> CEO </center>
+## <center> Chief Executive Officer </center>
 
 ### Riad Afridi Shibly
 >| Batch 2K15
@@ -146,9 +146,9 @@ _ToDo_
 
 
 
-# Committee - 2K14 <a name="2K14"> </a>
+# <center> --- Committee - 2K14 --- </center> <a name="2K14"> </a>
 
-## <center> CEO </center>
+## <center> Chief Executive Officer </center>
 
 ### Tasnim Rana
 >| Batch 2K14
@@ -227,5 +227,5 @@ _ToDo_
 >| Batch 2K14
 | Dept. of Mechanical Engineering
 
-# Committee - 2K13
+# <center> --- Committee - 2K13 --- </center> <a name="2K13"> </a>
 
