@@ -14,11 +14,11 @@ permalink: /committee/
     * [Committee - 2K13](#2K13)
 
 
-# <center> --- Sub-Committee - 2K16 --- </center> <a name="2K16"> </a>
+# <center> Sub-Committee - 2K16 </center> <a name="2K16"> </a>
 
 _ToDo_
 
-# <center> --- Committee - 2K15 --- </center> <a name="2K15"> </a>
+# <center> Committee - 2K15 </center> <a name="2K15"> </a>
 
 ## <center> Chief Executive Officer </center>
 
@@ -146,7 +146,7 @@ _ToDo_
 
 
 
-# <center> --- Committee - 2K14 --- </center> <a name="2K14"> </a>
+# <center> Committee - 2K14 </center> <a name="2K14"> </a>
 
 ## <center> Chief Executive Officer </center>
 
@@ -227,5 +227,5 @@ _ToDo_
 >| Batch 2K14
 | Dept. of Mechanical Engineering
 
-# <center> --- Committee - 2K13 --- </center> <a name="2K13"> </a>
+# <center> Committee - 2K13 </center> <a name="2K13"> </a>
 
