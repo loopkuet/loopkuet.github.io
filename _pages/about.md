@@ -1,9 +1,4 @@
----
-layout: post
-title: "about us"
-author: "loop"
-permalink: /about/
----
+
 
 ## যেভাবে শুরু
 LOOP, Control Engineering Club হিসাবে এর যাত্রা শুরু হয় 2K11 এর Imam Ul Ferdous এবং Mahbub Rony এর হাত ধরে। শুরুতে ক্লাবটির মডারেটর ছিলেন Md. Fazle Rabbi স্যার। এর আগে club হিসাবে কাজ করার পূর্বে LOOP একটি research group হিসাবে কাজ করত। দেশে এবং দেশের বাইরে বেশ কিছু কম্পিটিশনে LOOP এর সদস্যরা পারটিসিপেট করে। বর্তমানে ক্লাবটির মডারেটর হিসেবে আছেন, Dr. Zahir Uddin Ahmed স্যার।  
