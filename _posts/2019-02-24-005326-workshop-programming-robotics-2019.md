@@ -2,6 +2,10 @@
 layout: post
 title: "Programming & Introduction to Robotics Workshop - 2019"
 ---
+
+![Workshop 2019]({{site.url}}/assets/img/programming-robotics-workshop-2019.jpg)
+_Programming & Introduction to Robotics Workshop - 2019_
+
 Before starting one's engineering education almost everyone dreamt a dream of making robot & working with robotics, right? To materialize one's dream LOOP (Control Engineering Club) is going to arrange a workshop titled- " Programming & Introduction to Robotics 2019" starting from 26 February 2019 in the Department  of Mechanical Engineering, KUET
 
 The main purpose of this workshop is creating a clear understanding of Programming & Basic Robotics for students of 2K17 batch.
