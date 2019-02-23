@@ -16,7 +16,118 @@ permalink: /committee/
 
 # <center> Sub-Committee - 2K16 </center> <a name="2K16"> </a>
 
-_ToDo_
+## <center> Assistant Treasurer </center>
+### Sajih Bin Suja Labib
+>| Batch 2K16
+| Dept. of Mechanical Engineering
+
+## <center> Assistant Club Coordinator </center>
+### Farhana Islam Muna
+>| Batch 2K16
+| Dept. of Mechanical Engineering
+
+### Md. Aasef Azhar Khan
+>| Batch 2K16
+| Dept. of Mechanical Engineering
+
+## <center> Assistant Content & Training Officer </center>
+### Emroze Islam
+>| Batch 2K16
+| Dept. of Industrial Engineering and Management
+
+### Saurov Saha
+>| Batch 2K16
+| Dept. of Mechanical Engineering
+
+### Sumiya Afrose
+>| Batch 2K16
+| Dept. of Energy Science and Engineering
+
+
+## <center> Assistant Event Manager </center>
+### S.M. Fatin Hasnat
+>| Batch 2K16
+| Dept. of Mechanical Engineering
+
+### Nur Mohammad Nahid
+>| Batch 2K16
+| Dept. of Mechanical Engineering
+
+### Omar faruk
+>| Batch 2K16
+| Dept. of Mechanical Engineering
+
+### MD. Anash Mia
+>| Batch 2K16
+| Dept. of Mechanical Engineering
+
+### Digonta Chanda
+>| Batch 2K16
+| Dept. of Mechanical Engineering
+
+### Mir Zamiur Rahman
+>| Batch 2K16
+| Dept. of Mechanical Engineering
+
+## <center> Assistant Human Resources Officer </center>
+### Syed Abrar Sabab
+>| Batch 2K16
+| Dept. of Energy Science and Engineering
+
+### Fahim Rahaman Rijvi
+>| Batch 2K16
+| Dept. of Mechanical Engineering
+
+### Raydah Nudrat Turna
+>| Batch 2K16
+| Dept. of Mechanical Engineering
+
+### Nazmus Saadat Mooaz 
+>| Batch 2K16
+| Dept. of Mechanical Engineering
+
+## <center> Assistant Research & Quality Enhancement Officer </center>
+### Faisal Ahmed
+>| Batch 2K16
+| Dept. of Mechanical Engineering
+
+### Sukanto Biswas
+>| Batch 2K16
+| Dept. of Mechanical Engineering
+
+
+## <center> Assistant Project Manager </center>
+### Md Tareq Hassan
+>| Batch 2K16
+| Dept. of Mechanical Engineering
+
+### Soumik Sarker
+>| Batch 2K16
+| Dept. of Mechanical Engineering
+
+### Md. Jamiun Noor Shadman
+>| Batch 2K16
+| Dept. of Mechanical Engineering
+
+### Md Sakib Mahmud Nayem Khan
+>| Batch 2K16
+| Dept. of Mechanical Engineering
+
+### Tanmoy Saha Pritom
+>| Batch 2K16
+| Dept. of Mechanical Engineering
+
+
+## <center> Assistant Public Relation and Media Officer </center>
+
+### Sanjida Afrin Saima
+>| Batch 2K16
+| Dept. of Civil Engineering
+
+### Joydeb Sarker Shuvo
+>| Batch 2K16
+| Dept. of Mechanical Engineering
+
 
 # <center> Committee - 2K15 </center> <a name="2K15"> </a>
 
@@ -228,4 +339,10 @@ _ToDo_
 | Dept. of Mechanical Engineering
 
 # <center> Committee - 2K13 </center> <a name="2K13"> </a>
+
+## <center> Chief Executive Officer </center>
+
+### Shabnoor Mahmud Joty
+>| Batch 2K13
+ | Dept. of Mechanical Engineering
 
